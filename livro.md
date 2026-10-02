@@ -1,3 +1,3 @@
 # Livro de receitas
 
-As receitas da turma, publicadas pelo GitHub Actions.
+As receitas do Felipe, publicadas pelo GitHub Actions.
